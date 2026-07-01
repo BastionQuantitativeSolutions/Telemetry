@@ -1,0 +1,1087 @@
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "price": 0.69625, "sl": 0.695205625, "tp": 0.6979906250000001, "spread": 3.0000000000085514e-05, "retcode": 10009, "ticket": 381658419, "comment": "Request executed", "ts": "2026-02-03T02:43:10.039115+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "price": 1.18029, "sl": 1.178519565, "tp": 1.183240725, "spread": 0.0, "retcode": 10009, "ticket": 381659377, "comment": "Request executed", "ts": "2026-02-03T02:44:32.303703+00:00"}
+{"pair": "XAUUSD", "dir": 1, "units": 0.01, "spread_pips": 63.000000000010914, "retcode": "EXTREME_SPREAD", "ts": "2026-02-03T02:45:09.239286+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "price": 1.36745, "sl": 1.365398825, "tp": 1.370868625, "spread": 7.00000000000145e-05, "retcode": 10019, "ticket": 0, "comment": "No money", "ts": "2026-02-03T02:48:21.780830+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36631, "sl": 1.364340415, "tp": 1.369805975, "spread": 7.00000000000145e-05, "retcode": 10019, "ticket": 0, "comment": "No money", "ts": "2026-02-03T03:39:37.918435+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_485s", "ts": "2026-02-03T03:46:33.269755+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database", "ts": "2026-02-03T03:49:40.045329+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_97s", "ts": "2026-02-03T03:53:00.853826+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database", "ts": "2026-02-03T03:56:15.973710+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36571, "sl": 1.363661435, "tp": 1.369124275, "spread": 4.0000000000040004e-05, "retcode": 10019, "ticket": 0, "comment": "No money", "ts": "2026-02-03T03:59:41.390057+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_339s", "ts": "2026-02-03T04:09:02.650268+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database", "ts": "2026-02-03T04:12:05.807492+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36569, "sl": 1.36363148, "tp": 1.3690942, "spread": 2.999999999997449e-05, "retcode": 10019, "ticket": 0, "comment": "No money", "ts": "2026-02-03T04:15:04.766664+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36638, "sl": 1.3643304299999999, "tp": 1.3697959499999999, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 382123634, "comment": "Request executed", "ts": "2026-02-03T12:44:55.548882+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "price": 0.70004, "sl": 0.69898994, "tp": 0.7017901, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 382248517, "comment": "Request executed", "ts": "2026-02-03T14:06:05.736394+00:00"}
+{"pair": "XAUUSD", "dir": 1, "units": 0.01, "spread_pips": 55.00000000001819, "retcode": "EXTREME_SPREAD", "ts": "2026-02-03T14:23:39.057585+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.76, "price": 155.833, "sl": 155.5992505, "tp": 156.2225825, "spread": 0.007000000000005002, "retcode": 10009, "ticket": 382323060, "comment": "Request executed", "ts": "2026-02-03T14:44:14.207042+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "price": 0.69882, "sl": 0.69777177, "tp": 0.70056705, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 382371618, "comment": "Request executed", "ts": "2026-02-03T15:07:45.385232+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.06, "price": 1.36606, "sl": 1.36401091, "tp": 1.36947515, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 382388951, "comment": "Request executed", "ts": "2026-02-03T15:16:34.045781+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36405, "sl": 1.362003925, "tp": 1.367460125, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 382479936, "comment": "Request executed", "ts": "2026-02-03T16:14:59.431690+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.54, "retcode": "TRADE_DISABLED_account_trade_disabled", "ts": "2026-02-03T16:43:35.449080+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "spread_pips": 5.800000000000249, "retcode": "EXTREME_SPREAD", "ts": "2026-02-03T22:19:37.746851+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: EURUSD has 1 expected positions in database", "ts": "2026-02-03T22:22:58.406378+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "spread_pips": 4.500000000000615, "retcode": "EXTREME_SPREAD", "ts": "2026-02-03T22:59:36.200727+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: AUDUSD has 1 expected positions in database", "ts": "2026-02-03T23:36:33.205088+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36391, "sl": 1.361864135, "tp": 1.367319775, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 382972867, "comment": "Request executed", "ts": "2026-02-04T01:16:02.063638+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.48, "price": 156.705, "sl": 156.4699425, "tp": 157.0967625, "spread": 0.011000000000024102, "retcode": 10009, "ticket": 383435864, "comment": "Request executed", "ts": "2026-02-04T12:19:31.034433+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.67, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database", "ts": "2026-02-04T13:47:45.017819+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.68, "price": 156.538, "sl": 156.30319300000002, "tp": 156.929345, "spread": 0.011000000000024102, "retcode": 10009, "ticket": 383540710, "comment": "Request executed", "ts": "2026-02-04T13:53:30.213381+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "price": 0.70109, "sl": 0.700018395, "tp": 0.702822675, "spread": 0.00012000000000000899, "retcode": 10009, "ticket": 383655394, "comment": "Request executed", "ts": "2026-02-04T15:00:05.830562+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36723, "sl": 1.3651791549999999, "tp": 1.3706480749999999, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 383869017, "comment": "Request executed", "ts": "2026-02-04T19:25:25.103636+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.36856, "sl": 1.36650716, "tp": 1.3719814, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 384014928, "comment": "Request executed", "ts": "2026-02-05T03:23:23.590452+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.54, "price": 157.039, "sl": 156.80444, "tp": 157.43259999999998, "spread": 0.007999999999981355, "retcode": 10009, "ticket": 384135909, "comment": "Request executed", "ts": "2026-02-05T09:00:50.755014+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "price": 1.3661400000000001, "sl": 1.364040865, "tp": 1.369505225, "spread": 6.000000000017103e-05, "retcode": 10009, "ticket": 384322452, "comment": "Request executed", "ts": "2026-02-05T14:41:02.061397+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "price": 1.17971, "sl": 1.177940435, "tp": 1.182659275, "spread": 0.0, "retcode": 10009, "ticket": 384360278, "comment": "Request executed", "ts": "2026-02-05T15:28:06.373202+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 0.375, "price": 1.37028, "sl": 1.36822458, "tp": 1.3737057, "spread": 4.0000000000040004e-05, "retcode": 10014, "ticket": 0, "comment": "Invalid volume", "ts": "2026-02-06T01:52:15.694762+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.17, "price": 156.901, "sl": 156.66465, "tp": 157.29225, "spread": 0.008000000000009777, "retcode": 10009, "ticket": 384771515, "comment": "Request executed", "ts": "2026-02-06T15:57:26.049725+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.37, "price": 0.70182, "sl": 0.70076727, "tp": 0.70357455, "spread": 4.999999999999449e-05, "retcode": 10009, "ticket": 384808165, "comment": "Request executed", "ts": "2026-02-06T18:26:06.132961+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "spread_pips": 4.299999999999304, "retcode": "EXTREME_SPREAD", "ts": "2026-02-09T22:54:30.042475+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36868, "sl": 1.36662698, "tp": 1.3721017, "spread": 8.999999999992347e-05, "retcode": 10009, "ticket": 385144583, "comment": "Request executed", "ts": "2026-02-09T23:29:14.295252+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70842, "sl": 0.7073573700000001, "tp": 0.71019105, "spread": 6.0000000000060005e-05, "retcode": 10009, "ticket": 385147853, "comment": "Request executed", "ts": "2026-02-09T23:58:44.500243+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3562, "sl": 1.3541657, "tp": 1.3595905000000001, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 385160760, "comment": "Request executed", "ts": "2026-02-10T01:44:16.646111+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70794, "sl": 0.706888075, "tp": 0.709719875, "spread": 4.0000000000040004e-05, "retcode": 10012, "ticket": 385484926, "comment": "Request timeout", "ts": "2026-02-10T14:42:07.235043+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36694, "sl": 1.364919545, "tp": 1.370387425, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 385506394, "comment": "Request executed", "ts": "2026-02-10T15:03:00.998800+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "retcode": "TRADE_DISABLED_account_trade_disabled", "ts": "2026-02-10T15:13:54.110406+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.19003, "sl": 1.1882449549999998, "tp": 1.1930050749999999, "spread": 0.0, "retcode": 10009, "ticket": 385528040, "comment": "Request executed", "ts": "2026-02-10T15:38:20.004796+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3645100000000001, "sl": 1.36247322, "tp": 1.3679313, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 385596465, "comment": "Request executed", "ts": "2026-02-10T18:28:54.526733+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70736, "sl": 0.70629896, "tp": 0.7091284, "spread": 4.999999999999449e-05, "retcode": 10009, "ticket": 385643033, "comment": "Request executed", "ts": "2026-02-10T20:58:25.915045+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3548200000000001, "sl": 1.3527678, "tp": 1.358187, "spread": 0.0001500000000000945, "retcode": 10009, "ticket": 385655166, "comment": "Request executed", "ts": "2026-02-10T21:49:54.887425+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.18904, "sl": 1.18725644, "tp": 1.1920126000000002, "spread": 2.0000000000131024e-05, "retcode": 10009, "ticket": 385660373, "comment": "Request executed", "ts": "2026-02-10T23:08:01.903413+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.19134, "sl": 1.1895529900000001, "tp": 1.19431835, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 385803666, "comment": "Request executed", "ts": "2026-02-11T09:12:27.589438+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "retcode": "TRADE_DISABLED_account_trade_disabled", "ts": "2026-02-11T12:36:32.856146+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.19003, "sl": 1.1882349700000001, "tp": 1.1929950500000002, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 98042127, "comment": "Request executed", "ts": "2026-02-11T12:56:29.603517+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "retcode": "TRADE_DISABLED_account_trade_disabled", "ts": "2026-02-11T13:31:35.573886+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.61, "attempted_volume": 0.61, "final_volume": 0.61, "price": 153.638, "sl": 153.407543, "tp": 154.022095, "spread": 0.004000000000019099, "retcode": 10009, "ticket": 385961543, "comment": "Request executed", "ts": "2026-02-11T14:15:07.506492+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.71175, "sl": 0.7106524200000001, "tp": 0.7134993000000001, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 385969045, "comment": "Request executed", "ts": "2026-02-11T14:26:44.008674+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36029, "sl": 1.3582295949999998, "tp": 1.3636706749999998, "spread": 4.0000000000040004e-05, "retcode": "DRY", "ts": "2026-02-11T16:15:44.694544+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.17, "attempted_volume": 0.17, "final_volume": 0.17, "price": 153.193, "sl": 152.9632105, "tp": 153.5759825, "spread": 0.008000000000009777, "retcode": 10009, "ticket": 386063480, "comment": "Request executed", "ts": "2026-02-11T16:37:21.307465+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.35804, "sl": 1.356072835, "tp": 1.3615052749999998, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 386063925, "comment": "Request executed", "ts": "2026-02-11T16:38:16.101160+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.15, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_479s", "ts": "2026-02-11T16:44:22.056063+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_467s", "ts": "2026-02-11T16:45:29.233697+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 160s)", "ts": "2026-02-11T16:48:09.714359+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_145s", "ts": "2026-02-11T16:50:51.128736+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.12, "attempted_volume": 0.12, "final_volume": 0.12, "price": 153.137, "sl": 152.9072945, "tp": 153.5198425, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 386070333, "comment": "Request executed", "ts": "2026-02-11T16:52:37.914465+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 148s)", "ts": "2026-02-11T16:53:18.865178+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3575, "sl": 1.35546375, "tp": 1.36089375, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 386071452, "comment": "Request executed", "ts": "2026-02-11T16:56:05.093442+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.18848, "sl": 1.18669728, "tp": 1.1914512, "spread": 0.0, "retcode": 10009, "ticket": 386095071, "comment": "Request executed", "ts": "2026-02-11T17:50:04.693153+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.35579, "sl": 1.353756315, "tp": 1.3591794750000001, "spread": 6.000000000017103e-05, "retcode": 10009, "ticket": 386096450, "comment": "Request executed", "ts": "2026-02-11T17:56:16.660219+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.35565, "sl": 1.353616525, "tp": 1.359039125, "spread": 5.999999999994898e-05, "retcode": "DRY", "ts": "2026-02-11T18:24:22.928609+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.11, "attempted_volume": 0.11, "final_volume": 0.11, "price": 152.717, "sl": 152.48792450000002, "tp": 153.0987925, "spread": 0.005000000000023874, "retcode": "DRY", "ts": "2026-02-11T18:38:25.448524+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.18789, "sl": 1.1861081649999998, "tp": 1.190859725, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 386122348, "comment": "Request executed", "ts": "2026-02-11T19:05:56.722045+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.04, "attempted_volume": 0.04, "final_volume": 0.04, "price": 152.768, "sl": 152.544839, "tp": 153.155935, "spread": 0.012000000000000455, "retcode": 10009, "ticket": 386128530, "comment": "Request executed", "ts": "2026-02-11T19:23:48.389993+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.71242, "sl": 0.71135137, "tp": 0.71420105, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 386157533, "comment": "Request executed", "ts": "2026-02-11T21:10:19.897135+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "spread_pips": 8.399999999999519, "retcode": "EXTREME_SPREAD", "ts": "2026-02-11T22:07:03.052173+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 150s)", "ts": "2026-02-11T22:09:33.225268+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_584s", "ts": "2026-02-11T22:12:19.501409+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 162s)", "ts": "2026-02-11T22:15:01.545589+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36392, "sl": 1.36187412, "tp": 1.3673298, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 386373402, "comment": "Request executed", "ts": "2026-02-12T10:16:40.925951+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.42, "attempted_volume": 0.42, "final_volume": 0.42, "price": 153.067, "sl": 152.8373995, "tp": 153.4496675, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 386400696, "comment": "Request executed", "ts": "2026-02-12T11:24:16.443922+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.28, "attempted_volume": 0.29, "final_volume": 0.28, "price": 153.617, "sl": 153.3865745, "tp": 154.00104249999998, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 386463965, "comment": "Request executed", "ts": "2026-02-12T13:17:53.335882+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.93, "attempted_volume": 0.93, "final_volume": 0.93, "price": 153.152, "sl": 152.9232705, "tp": 153.53588249999999, "spread": 0.007999999999981355, "retcode": 10009, "ticket": 386515232, "comment": "Request executed", "ts": "2026-02-12T14:16:58.148542+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.71288, "sl": 0.7118106799999999, "tp": 0.7146621999999999, "spread": 3.999999999992898e-05, "retcode": 10009, "ticket": 386544228, "comment": "Request executed", "ts": "2026-02-12T14:46:04.256178+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.13, "attempted_volume": 0.13, "final_volume": 0.13, "price": 152.869, "sl": 152.638698, "tp": 153.25017, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 386583002, "comment": "Request executed", "ts": "2026-02-12T15:17:10.328454+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36541, "sl": 1.3633518999999998, "tp": 1.3688135, "spread": 8.000000000008001e-05, "retcode": 10009, "ticket": 386600256, "comment": "Request executed", "ts": "2026-02-12T15:39:33.266578+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.2, "attempted_volume": 0.2, "final_volume": 0.2, "price": 152.626, "sl": 152.39805950000002, "tp": 153.0085675, "spread": 0.006000000000000227, "retcode": 10009, "ticket": 386651854, "comment": "Request executed", "ts": "2026-02-12T16:17:48.621572+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70955, "sl": 0.708465705, "tp": 0.711303825, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 386653157, "comment": "Request executed", "ts": "2026-02-12T16:18:16.568146+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36204, "sl": 1.360006925, "tp": 1.365455125, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 386671784, "comment": "Request executed", "ts": "2026-02-12T16:29:22.383084+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.38, "attempted_volume": 0.38, "final_volume": 0.38, "price": 152.916, "sl": 152.6876245, "tp": 153.2992925, "spread": 0.003999999999990678, "retcode": 10009, "ticket": 386801629, "comment": "Request executed", "ts": "2026-02-12T19:52:24.712994+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70926, "sl": 0.70819611, "tp": 0.71103315, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 386812776, "comment": "Request executed", "ts": "2026-02-12T20:16:06.656228+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.16, "retcode": "TRADE_DISABLED_terminal_trade_disabled", "ts": "2026-02-12T20:55:22.371150+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70882, "sl": 0.70775677, "tp": 0.71059205, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 386857026, "comment": "Request executed", "ts": "2026-02-12T23:40:41.774804+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.3, "attempted_volume": 0.3, "final_volume": 0.3, "price": 153.22, "sl": 152.99017, "tp": 153.60305, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 386975985, "comment": "Request executed", "ts": "2026-02-13T06:12:26.226166+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "retcode": "TRADE_DISABLED_terminal_trade_disabled", "ts": "2026-02-13T10:49:34.922048+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.42, "attempted_volume": 0.42, "final_volume": 0.42, "price": 153.234, "sl": 153.004149, "tp": 153.617085, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 387159153, "comment": "Request executed", "ts": "2026-02-13T13:04:57.860211+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.13, "attempted_volume": 0.13, "final_volume": 0.13, "price": 152.991, "sl": 152.762512, "tp": 153.37447999999998, "spread": 0.008000000000009777, "retcode": 10009, "ticket": 387182432, "comment": "Request executed", "ts": "2026-02-13T13:31:44.222749+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.12, "attempted_volume": 0.12, "final_volume": 0.12, "price": 152.989, "sl": 152.75951650000002, "tp": 153.3714725, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 387215602, "comment": "Request executed", "ts": "2026-02-13T14:12:38.685556+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36225, "sl": 1.36021661, "tp": 1.36566565, "spread": 4.999999999988347e-05, "retcode": 10009, "ticket": 387303302, "comment": "Request executed", "ts": "2026-02-13T15:47:44.365003+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36108, "sl": 1.359008425, "tp": 1.3644526250000002, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 387316745, "comment": "Request executed", "ts": "2026-02-13T16:04:14.390332+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.35942, "sl": 1.35740084, "tp": 1.3628386, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 387370181, "comment": "Request executed", "ts": "2026-02-13T17:52:21.421757+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.18746, "sl": 1.18567881, "tp": 1.1904286499999999, "spread": 1.999999999990898e-05, "retcode": 10009, "ticket": 387396208, "comment": "Request executed", "ts": "2026-02-13T18:57:29.199599+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "retcode": "TRADE_DISABLED_terminal_trade_disabled", "ts": "2026-02-13T19:41:53.126331+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.18382, "sl": 1.18204427, "tp": 1.18677955, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 388634608, "comment": "Request executed", "ts": "2026-02-17T11:41:16.717221+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.34, "attempted_volume": 0.34, "final_volume": 0.34, "price": 153.343, "sl": 153.113984, "tp": 153.72736, "spread": 0.003999999999990678, "retcode": 10009, "ticket": 388793616, "comment": "Request executed", "ts": "2026-02-17T14:21:15.748698+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3529200000000001, "sl": 1.35494938, "tp": 1.3495377000000002, "spread": 7.999999999985796e-05, "retcode": 10009, "ticket": 388824932, "comment": "Request executed", "ts": "2026-02-17T14:40:38.354371+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70392, "sl": 0.7049959100000001, "tp": 0.70218015, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 388914070, "comment": "Request executed", "ts": "2026-02-17T15:47:45.011090+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.34, "attempted_volume": 0.34, "final_volume": 0.34, "price": 153.8, "sl": 153.5693, "tp": 154.1845, "spread": 0.005000000000023874, "retcode": 10009, "ticket": 388925616, "comment": "Request executed", "ts": "2026-02-17T15:59:34.437352+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.35049, "sl": 1.3525157349999999, "tp": 1.347113775, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 388927205, "comment": "Request executed", "ts": "2026-02-17T16:01:02.416618+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:01:26.450121+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.6, "attempted_volume": 0.6, "final_volume": 0.6, "price": 153.677, "sl": 153.4464845, "tp": 154.0611925, "spread": 0.00899999999998613, "retcode": 10009, "ticket": 388948170, "comment": "Request executed", "ts": "2026-02-17T16:24:29.995253+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70658, "sl": 0.7076298550000001, "tp": 0.704803575, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 388950381, "comment": "Request executed", "ts": "2026-02-17T16:27:18.416804+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:28:32.857112+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36571, "sl": 1.3636514499999999, "tp": 1.36911425, "spread": 4.999999999988347e-05, "retcode": 10009, "ticket": 388952802, "comment": "Request executed", "ts": "2026-02-17T16:30:38.748653+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:32:13.439826+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:36:19.878849+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:41:00.619795+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:44:22.261662+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:48:03.501498+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:51:38.825342+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:55:22.342370+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T16:59:05.563561+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T17:02:44.365875+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T17:05:41.793720+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T17:13:21.569250+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T17:16:38.858353+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.05, "attempted_volume": 0.05, "final_volume": 0.05, "price": 153.441, "sl": 153.211837, "tp": 153.825605, "spread": 0.007000000000005002, "retcode": 10009, "ticket": 388987680, "comment": "Request executed", "ts": "2026-02-17T17:21:25.467624+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-17T17:22:41.271313+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.09, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 108s)", "ts": "2026-02-17T17:23:12.933060+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.35458, "sl": 1.356601855, "tp": 1.351183575, "spread": 8.000000000008001e-05, "retcode": 10009, "ticket": 388990521, "comment": "Request executed", "ts": "2026-02-17T17:26:41.252916+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.04, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_443s", "ts": "2026-02-17T17:29:02.240032+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36476, "sl": 1.36271286, "tp": 1.3681718999999999, "spread": 4.999999999988347e-05, "retcode": 10009, "ticket": 388992609, "comment": "Request executed", "ts": "2026-02-17T17:30:31.079586+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.02, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 212s)", "ts": "2026-02-17T17:32:33.813945+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.03, "attempted_volume": 0.03, "final_volume": 0.03, "price": 153.453, "sl": 153.22381900000002, "tp": 153.837635, "spread": 0.009999999999990905, "retcode": 10009, "ticket": 388995725, "comment": "Request executed", "ts": "2026-02-17T17:36:31.539494+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.24, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_328s", "ts": "2026-02-17T17:46:03.515346+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.24, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 188s)", "ts": "2026-02-17T17:49:11.476435+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.24, "attempted_volume": 0.24, "final_volume": 0.24, "price": 153.486, "sl": 153.25577099999998, "tp": 153.86971499999999, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 389004342, "comment": "Request executed", "ts": "2026-02-17T17:52:35.224448+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36494, "sl": 1.3669874100000001, "tp": 1.36152765, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 389178506, "comment": "Request executed", "ts": "2026-02-18T03:44:36.765664+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.04, "attempted_volume": 0.04, "final_volume": 0.04, "price": 153.482, "sl": 153.251777, "tp": 153.865705, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 389211926, "comment": "Request executed", "ts": "2026-02-18T06:02:43.903885+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.04, "attempted_volume": 0.04, "final_volume": 0.04, "price": 153.719, "sl": 153.9495785, "tp": 153.3347025, "spread": 0.009000000000014552, "retcode": 10009, "ticket": 389271753, "comment": "Request executed", "ts": "2026-02-18T09:01:32.684407+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3571, "sl": 1.359105605, "tp": 1.353677325, "spread": 2.0000000000131024e-05, "retcode": 10009, "ticket": 389281579, "comment": "Request executed", "ts": "2026-02-18T09:25:19.206748+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.75, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-18T09:55:15.390362+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.45, "attempted_volume": 0.45, "final_volume": 0.45, "price": 154.706, "sl": 154.473941, "tp": 155.015412, "spread": 0.003999999999990678, "retcode": 10012, "ticket": 389606021, "comment": "Request timeout", "ts": "2026-02-18T20:00:01.728029+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36948, "sl": 1.36742578, "tp": 1.37221896, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 389661251, "comment": "Request executed", "ts": "2026-02-19T01:04:06.538254+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.17889, "sl": 1.177121665, "tp": 1.18124778, "spread": 1.999999999990898e-05, "retcode": 10009, "ticket": 389684926, "comment": "Request executed", "ts": "2026-02-19T03:28:57.407498+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T04:28:48.909622+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.02, "attempted_volume": 0.02, "final_volume": 0.02, "price": 155.276, "sl": 155.5079125, "tp": 154.96445, "spread": 0.012999999999976808, "retcode": 10009, "ticket": 389712851, "comment": "Request executed", "ts": "2026-02-19T06:00:36.980755+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.07, "attempted_volume": 0.07, "final_volume": 0.07, "price": 154.963, "sl": 154.73055549999998, "tp": 155.27292599999998, "spread": 0.01099999999999568, "retcode": 10009, "ticket": 389744386, "comment": "Request executed", "ts": "2026-02-19T07:58:00.020180+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.02, "attempted_volume": 0.02, "final_volume": 0.02, "price": 154.832, "sl": 155.0632465, "tp": 154.521338, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 389767356, "comment": "Request executed", "ts": "2026-02-19T08:56:18.783976+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:07:09.462505+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.3673899999999999, "sl": 1.36532893, "tp": 1.37011476, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 389770842, "comment": "Request executed", "ts": "2026-02-19T09:09:09.503876+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:10:05.154689+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:13:51.677732+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:34:28.168213+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:37:37.815752+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:42:09.935161+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:46:18.813902+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:49:04.742402+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T09:53:56.257100+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T10:00:56.841554+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.17942, "sl": 1.18118913, "tp": 1.1770611599999998, "spread": 2.0000000000131024e-05, "retcode": 10009, "ticket": 389810027, "comment": "Request executed", "ts": "2026-02-19T10:39:29.243906+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.2, "attempted_volume": 0.2, "final_volume": 0.2, "price": 154.611, "sl": 154.37808500000003, "tp": 154.91922000000002, "spread": 0.007999999999981355, "retcode": 10009, "ticket": 389836774, "comment": "Request executed", "ts": "2026-02-19T11:56:54.903096+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.05, "attempted_volume": 0.05, "final_volume": 0.05, "price": 154.774, "sl": 155.0071625, "tp": 154.46545, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 389858644, "comment": "Request executed", "ts": "2026-02-19T12:50:46.640536+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36936, "sl": 1.37141404, "tp": 1.36662128, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 389861738, "comment": "Request executed", "ts": "2026-02-19T13:00:26.051878+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.34589, "sl": 1.34789882, "tp": 1.34318824, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 389873105, "comment": "Request executed", "ts": "2026-02-19T13:15:48.646479+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:25:46.988734+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.03, "attempted_volume": 0.03, "final_volume": 0.03, "price": 154.827, "sl": 155.0592405, "tp": 154.517346, "spread": 0.01099999999999568, "retcode": 10009, "ticket": 389877783, "comment": "Request executed", "ts": "2026-02-19T13:27:03.846267+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:27:23.428190+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:29:07.193862+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:32:33.400538+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:35:49.386062+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:38:48.466912+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:42:14.647464+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.05, "attempted_volume": 0.05, "final_volume": 0.05, "price": 154.816, "sl": 155.048224, "tp": 154.506368, "spread": 0.007000000000005002, "retcode": 10009, "ticket": 389898100, "comment": "Request executed", "ts": "2026-02-19T13:52:36.476283+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:54:32.403920+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T13:57:45.327175+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T14:01:16.087692+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.05, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_206s", "ts": "2026-02-19T14:04:10.602483+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36991, "sl": 1.371964865, "tp": 1.36717018, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 389906377, "comment": "Request executed", "ts": "2026-02-19T14:05:25.087307+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.03, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 189s)", "ts": "2026-02-19T14:07:19.920976+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.03, "attempted_volume": 0.03, "final_volume": 0.03, "price": 155.055, "sl": 155.2875825, "tp": 154.74489, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 389912926, "comment": "Request executed", "ts": "2026-02-19T14:13:02.482315+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.03, "attempted_volume": 0.03, "final_volume": 0.03, "price": 155.174, "sl": 155.4057595, "tp": 154.862654, "spread": 0.003999999999990678, "retcode": 10009, "ticket": 389948603, "comment": "Request executed", "ts": "2026-02-19T14:50:10.083689+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.37073, "sl": 1.372806125, "tp": 1.3680085000000002, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 389951292, "comment": "Request executed", "ts": "2026-02-19T14:53:13.516887+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 0.70505, "sl": 0.70609756, "tp": 0.70362992, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 389964234, "comment": "Request executed", "ts": "2026-02-19T15:03:53.065965+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:04:42.775263+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.62, "attempted_volume": 0.62, "final_volume": 0.62, "price": 155.148, "sl": 154.9162765, "tp": 155.459298, "spread": 0.01099999999999568, "retcode": 10009, "ticket": 389965979, "comment": "Request executed", "ts": "2026-02-19T15:05:42.590074+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:06:16.103815+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36966, "sl": 1.3676055100000002, "tp": 1.3723993200000002, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 389969053, "comment": "Request executed", "ts": "2026-02-19T15:08:46.813464+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:09:24.942641+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:10:22.778610+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:12:40.599549+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:13:40.549916+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:15:57.237837+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:16:55.542397+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:19:22.118836+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:20:12.300609+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:22:53.526108+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:23:21.439945+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:25:36.945432+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:26:14.253555+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:28:46.291839+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:29:09.923767+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:31:35.912292+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T15:32:04.131254+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "TRADE_DISABLED_account_trade_disabled", "ts": "2026-02-19T15:34:50.074688+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 0.70557, "sl": 0.706608325, "tp": 0.7041389, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 390004291, "comment": "Request executed", "ts": "2026-02-19T16:03:07.180302+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.18, "attempted_volume": 0.18, "final_volume": 0.18, "price": 155.0, "sl": 154.7665015, "tp": 155.308998, "spread": 0.00899999999998613, "retcode": 10009, "ticket": 390009366, "comment": "Request executed", "ts": "2026-02-19T16:11:27.798748+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T16:17:58.162137+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T16:24:22.497914+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36868, "sl": 1.370743035, "tp": 1.36595262, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390015457, "comment": "Request executed", "ts": "2026-02-19T16:26:33.854768+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T16:26:58.058555+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T17:11:02.249611+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.02, "attempted_volume": 0.02, "final_volume": 0.02, "price": 154.976, "sl": 155.208464, "tp": 154.666048, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390039516, "comment": "Request executed", "ts": "2026-02-19T17:18:41.796761+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.3694899999999999, "sl": 1.37155425, "tp": 1.366761, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 390056257, "comment": "Request executed", "ts": "2026-02-19T18:05:58.991531+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.04, "attempted_volume": 0.04, "final_volume": 0.04, "price": 154.939, "sl": 155.17140849999998, "tp": 154.629122, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390079585, "comment": "Request executed", "ts": "2026-02-19T19:28:00.634400+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.34593, "sl": 1.34793888, "tp": 1.34322816, "spread": 7.999999999985796e-05, "retcode": 10009, "ticket": 390080986, "comment": "Request executed", "ts": "2026-02-19T19:33:53.704732+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T19:38:58.198866+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 2.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-19T19:41:19.685517+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36828, "sl": 1.366217595, "tp": 1.3710065399999998, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 390113166, "comment": "Request executed", "ts": "2026-02-19T21:37:46.160000+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.34641, "sl": 1.344390385, "tp": 1.3491028200000001, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 390123014, "comment": "Request executed", "ts": "2026-02-19T23:39:19.443291+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.36944, "sl": 1.37149416, "tp": 1.3667011199999999, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390172496, "comment": "Request executed", "ts": "2026-02-20T03:25:20.316284+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.03, "attempted_volume": 0.03, "final_volume": 0.03, "price": 155.358, "sl": 155.591037, "tp": 155.047284, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390202307, "comment": "Request executed", "ts": "2026-02-20T06:04:59.830071+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.2, "attempted_volume": 0.2, "final_volume": 0.2, "price": 155.052, "sl": 154.82042049999998, "tp": 155.363106, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390218650, "comment": "Request executed", "ts": "2026-02-20T07:14:14.363489+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.03, "attempted_volume": 0.03, "final_volume": 0.03, "price": 155.38, "sl": 155.6120685, "tp": 155.068242, "spread": 0.007000000000005002, "retcode": 10009, "ticket": 390241692, "comment": "Request executed", "ts": "2026-02-20T08:16:49.841404+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 2.0, "attempted_volume": 2.0, "final_volume": 2.0, "price": 1.34734, "sl": 1.34936101, "tp": 1.34464532, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390270419, "comment": "Request executed", "ts": "2026-02-20T09:30:39.781017+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.09, "attempted_volume": 0.09, "final_volume": 0.09, "price": 155.346, "sl": 155.1139795, "tp": 155.65769400000002, "spread": 0.008000000000009777, "retcode": 10009, "ticket": 390296358, "comment": "Request executed", "ts": "2026-02-20T10:40:24.051071+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.16, "attempted_volume": 0.16, "final_volume": 0.16, "price": 155.223, "sl": 155.4558345, "tp": 154.8349425, "spread": 0.006000000000000227, "retcode": 10009, "ticket": 390327742, "comment": "Request executed", "ts": "2026-02-20T12:01:21.559662+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.08, "attempted_volume": 0.08, "final_volume": 0.08, "price": 155.258, "sl": 155.49088700000001, "tp": 154.869855, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390344488, "comment": "Request executed", "ts": "2026-02-20T12:37:39.643339+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36884, "sl": 1.3708932600000001, "tp": 1.3654179, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 390344843, "comment": "Request executed", "ts": "2026-02-20T12:38:53.417115+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36959, "sl": 1.3716443850000002, "tp": 1.366166025, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 390368879, "comment": "Request executed", "ts": "2026-02-20T13:34:13.432497+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.04, "attempted_volume": 0.04, "final_volume": 0.04, "price": 155.335, "sl": 155.5680025, "tp": 154.9466625, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390377427, "comment": "Request executed", "ts": "2026-02-20T13:46:01.847129+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 0.70514, "sl": 0.70619771, "tp": 0.70337715, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 390390321, "comment": "Request executed", "ts": "2026-02-20T13:58:09.733682+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.17883, "sl": 1.180578215, "tp": 1.1758629749999998, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 390452061, "comment": "Request executed", "ts": "2026-02-20T15:02:04.632519+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.12, "attempted_volume": 0.12, "final_volume": 0.12, "price": 155.359, "sl": 155.12895699999999, "tp": 155.750405, "spread": 0.01099999999999568, "retcode": 10009, "ticket": 390456453, "comment": "Request executed", "ts": "2026-02-20T15:03:45.088270+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36814, "sl": 1.36598794, "tp": 1.3714601, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 390472562, "comment": "Request executed", "ts": "2026-02-20T15:13:07.222448+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_197s", "ts": "2026-02-20T15:13:39.813621+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.21, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_272s", "ts": "2026-02-20T15:14:13.090803+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: EURUSD has 1 expected positions in database (age 160s)", "ts": "2026-02-20T15:16:19.836185+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.24, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 181s)", "ts": "2026-02-20T15:17:14.413832+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_587s", "ts": "2026-02-20T15:18:14.338347+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.18049, "sl": 1.182240705, "tp": 1.177518825, "spread": 9.999999999843467e-06, "retcode": 10009, "ticket": 390481367, "comment": "Request executed", "ts": "2026-02-20T15:19:27.130282+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.22, "attempted_volume": 0.22, "final_volume": 0.22, "price": 154.952, "sl": 154.71757499999998, "tp": 155.33737499999998, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390482485, "comment": "Request executed", "ts": "2026-02-20T15:20:36.463663+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION_169s", "ts": "2026-02-20T15:25:12.510696+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 170s)", "ts": "2026-02-20T15:28:02.522696+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 184s)", "ts": "2026-02-20T15:28:16.762831+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36804, "sl": 1.37007203, "tp": 1.3645999500000001, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390492133, "comment": "Request executed", "ts": "2026-02-20T15:30:48.124060+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.16, "attempted_volume": 0.16, "final_volume": 0.16, "price": 154.775, "sl": 154.543836, "tp": 155.16294000000002, "spread": 0.004000000000019099, "retcode": 10009, "ticket": 390525180, "comment": "Request executed", "ts": "2026-02-20T16:16:09.727395+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.369, "sl": 1.3710535, "tp": 1.3655774999999999, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 390526104, "comment": "Request executed", "ts": "2026-02-20T16:17:45.226361+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.36942, "sl": 1.3714741300000002, "tp": 1.3659964500000001, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 390554070, "comment": "Request executed", "ts": "2026-02-20T17:03:01.115592+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.05, "attempted_volume": 0.05, "final_volume": 0.05, "price": 155.178, "sl": 155.422785, "tp": 154.802025, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390565637, "comment": "Request executed", "ts": "2026-02-20T17:23:48.535576+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.3686099999999999, "sl": 1.3706629149999998, "tp": 1.3651884749999998, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 390587863, "comment": "Request executed", "ts": "2026-02-20T18:21:51.003535+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.09, "attempted_volume": 0.09, "final_volume": 0.09, "price": 154.838, "sl": 154.605743, "tp": 155.22509499999998, "spread": 0.012000000000000455, "retcode": 10009, "ticket": 390596893, "comment": "Request executed", "ts": "2026-02-20T18:39:32.817490+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.05, "attempted_volume": 0.05, "final_volume": 0.05, "price": 155.033, "sl": 155.2655495, "tp": 154.64541749999998, "spread": 0.005000000000023874, "retcode": 10009, "ticket": 390609774, "comment": "Request executed", "ts": "2026-02-20T19:21:02.414433+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "attempted_volume": 1.5, "final_volume": 1.5, "price": 1.34871, "sl": 1.35074308, "tp": 1.3453481999999999, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 390612590, "comment": "Request executed", "ts": "2026-02-20T19:35:25.140126+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.06, "attempted_volume": 0.06, "final_volume": 0.06, "price": 155.114, "sl": 155.34667100000001, "tp": 154.726215, "spread": 0.008000000000009777, "retcode": 10009, "ticket": 390618330, "comment": "Request executed", "ts": "2026-02-20T19:57:59.191840+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.5, "retcode": "TRADE_DISABLED_terminal_trade_disabled", "ts": "2026-02-20T19:58:56.010366+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 1.18234, "sl": 0.0, "tp": 0.0, "spread": 2.0000000000131024e-05, "retcode": 10009, "ticket": 390736437, "comment": "Request executed", "ts": "2026-02-22T23:45:00.486902+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 0.01, "retcode": "TRADE_DISABLED_terminal_trade_disabled", "ts": "2026-02-22T23:46:03.053628+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 0.70751, "sl": 0.0, "tp": 0.0, "spread": 3.999999999992898e-05, "retcode": 10009, "ticket": 390782707, "comment": "Request executed", "ts": "2026-02-23T02:05:20.398837+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T02:11:23.404058+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T02:11:23.915438+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 1.36639, "sl": 0.0, "tp": 0.0, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390783729, "comment": "Request executed", "ts": "2026-02-23T02:11:24.623008+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 154.1, "sl": 0.0, "tp": 0.0, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 390784170, "comment": "Request executed", "ts": "2026-02-23T02:13:33.174558+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T02:14:07.393824+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T02:28:36.913415+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T02:28:37.428647+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T02:28:37.939109+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T02:28:38.451775+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T02:31:19.147655+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T02:57:42.566388+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:06:09.337233+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:17:27.785900+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:25:51.817197+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:31:23.124126+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:31:23.637905+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:31:24.151903+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:32:25.489954+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:33:41.931845+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:33:42.447662+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:41:31.956020+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:42:36.249080+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:48:07.867192+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:48:08.382557+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T03:48:08.894392+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T03:58:40.847972+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T04:06:27.953145+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T04:20:31.605835+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T04:26:48.432191+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T04:35:27.788783+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T04:40:47.985979+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T04:45:48.624597+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T04:45:49.133718+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T04:45:49.647084+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T04:45:50.158728+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T04:47:09.958125+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:00:38.617386+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:02:00.728832+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T05:06:49.776172+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T05:16:13.792860+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:16:14.304041+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:16:14.815905+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T05:28:17.431769+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:29:18.201561+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T05:35:53.510820+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:41:32.079598+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T05:53:23.790969+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:00:54.866086+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T06:01:58.957664+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:01:59.467291+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T06:01:59.978633+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:02:00.490633+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:21:29.516948+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:25:27.467148+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:25:27.981325+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T06:30:51.993512+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:34:04.392511+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:34:04.906027+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T06:37:18.732054+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:40:30.527453+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:46:08.677019+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T06:55:21.122998+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:00:59.033506+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:02:06.379263+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:02:06.894228+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:13:10.501606+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:14:14.409003+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:21:39.945193+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:25:39.855812+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:25:40.370451+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:31:55.408368+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:34:47.894608+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:37:20.106630+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:37:20.620044+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T07:41:39.833482+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:46:52.757093+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T07:55:34.982462+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:01:33.935475+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:02:56.513068+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:06:43.274599+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:16:09.872207+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:16:10.384275+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:22:24.312273+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:26:30.981769+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:27:32.105546+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:32:36.270385+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:40:35.845307+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:40:36.359491+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:40:36.871158+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:41:50.114615+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T08:48:37.165156+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T08:56:22.722466+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T09:02:22.281477+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T09:03:32.332347+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:12:36.607905+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:18:28.854361+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:18:29.368170+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T09:25:53.671332+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:26:55.396307+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T09:31:31.245683+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:33:29.644384+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 1.36649, "sl": 0.0, "tp": 0.0, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390865565, "comment": "Request executed", "ts": "2026-02-23T09:42:27.271149+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T09:46:02.437378+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:46:02.951747+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T09:51:03.829647+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T09:56:23.325422+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T10:03:09.926858+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:04:27.788848+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T10:12:38.099856+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 1.35066, "sl": 0.0, "tp": 0.0, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 390874337, "comment": "Request executed", "ts": "2026-02-23T10:20:16.429128+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:26:30.341831+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:27:34.336821+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:32:26.354499+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T10:33:29.893009+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:43:20.944664+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:43:21.456818+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T10:47:13.543758+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:49:29.588510+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T10:51:53.683019+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T10:59:33.169308+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T11:04:06.840873+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T11:05:24.838281+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T11:13:40.706649+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 1.35055, "sl": 0.0, "tp": 0.0, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 390895720, "comment": "Request executed", "ts": "2026-02-23T11:20:29.892868+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T11:27:06.228028+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T11:28:22.500748+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T11:35:59.525366+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T11:37:03.721774+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T11:47:45.419264+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 0.01, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T11:47:45.932801+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 0.01, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T11:48:52.737139+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 0.01, "attempted_volume": 0.01, "final_volume": 0.01, "price": 154.908, "sl": 0.0, "tp": 0.0, "spread": 0.005000000000023874, "retcode": 10009, "ticket": 390904832, "comment": "Request executed", "ts": "2026-02-23T11:52:25.100435+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T12:03:04.814840+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T12:05:39.296680+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T12:05:39.812005+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T12:14:16.486066+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T12:21:08.422087+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T12:26:10.238388+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T12:27:11.068911+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T12:30:41.104920+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T12:36:06.202600+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T12:41:48.593411+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.34949, "sl": 1.35028, "tp": 1.34817, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 390941856, "comment": "Request executed", "ts": "2026-02-23T13:24:50.303465+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T13:25:45.343315+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.3697, "sl": 1.3703, "tp": 1.36871, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 390942637, "comment": "Request executed", "ts": "2026-02-23T13:25:46.034116+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: GBPUSD has 1 expected positions in database (age 106s)", "ts": "2026-02-23T13:26:35.818332+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T13:26:36.328034+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T13:26:36.840666+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.752, "sl": 154.60108, "tp": 155.00354, "spread": 0.007000000000005002, "retcode": 10009, "ticket": 390943628, "comment": "Request executed", "ts": "2026-02-23T13:26:37.545576+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T13:27:29.309122+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 170s)", "ts": "2026-02-23T13:29:27.380645+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T13:29:27.899731+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T13:32:56.033333+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.18015, "sl": 1.1815, "tp": 1.17787, "spread": 9.999999999843467e-06, "retcode": 10009, "ticket": 390970402, "comment": "Request executed", "ts": "2026-02-23T14:16:05.145307+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: EURUSD has 1 expected positions in database (age 43s)", "ts": "2026-02-23T14:16:47.475013+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.61, "sl": 154.70965, "tp": 154.44658, "spread": 0.003999999999990678, "retcode": 10009, "ticket": 390970882, "comment": "Request executed", "ts": "2026-02-23T14:16:48.159803+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 44s)", "ts": "2026-02-23T14:17:31.599223+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T14:17:32.107404+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T14:17:32.620209+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36757, "sl": 1.36681, "tp": 1.36884, "spread": 4.999999999988347e-05, "retcode": 10009, "ticket": 390971309, "comment": "Request executed", "ts": "2026-02-23T14:17:33.308277+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T14:21:33.282220+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 240s)", "ts": "2026-02-23T14:21:33.290441+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 240s)", "ts": "2026-02-23T14:21:33.298466+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T14:21:33.810011+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T14:22:44.298147+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T15:16:17.711328+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T15:16:18.221872+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.386, "sl": 154.27835, "tp": 154.56542, "spread": 0.003999999999990678, "retcode": 10009, "ticket": 391029226, "comment": "Request executed", "ts": "2026-02-23T15:17:39.652698+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T15:18:32.451620+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDJPY has 1 expected positions in database (age 142s)", "ts": "2026-02-23T15:20:01.077618+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T15:20:01.594736+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36755, "sl": 1.36851, "tp": 1.36593, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391032391, "comment": "Request executed", "ts": "2026-02-23T15:21:20.568683+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T15:22:12.493958+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T15:25:50.084199+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T15:25:50.602129+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T15:30:54.272113+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T15:30:54.787159+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T15:32:10.186963+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.3691200000000001, "sl": 1.3701, "tp": 1.36762, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391065524, "comment": "Request executed", "ts": "2026-02-23T16:06:58.677425+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T16:08:02.235840+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T16:08:02.750447+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T16:08:03.277469+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T16:10:58.270779+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T16:10:58.785870+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T16:10:59.314670+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T16:10:59.826222+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 241s)", "ts": "2026-02-23T16:10:59.833647+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T16:12:00.318885+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T16:16:58.102960+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T16:19:49.162801+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T16:26:34.232947+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T16:26:34.746946+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.35029, "sl": 1.34943, "tp": 1.35173, "spread": 1.999999999990898e-05, "retcode": 10009, "ticket": 391091654, "comment": "Request executed", "ts": "2026-02-23T17:07:32.599232+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:08:36.377055+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:10:07.716321+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:10:08.228527+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36869, "sl": 1.36938, "tp": 1.36757, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391093472, "comment": "Request executed", "ts": "2026-02-23T17:11:24.556600+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:14:20.544053+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:14:21.059378+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T17:19:18.852828+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70581, "sl": 0.70637, "tp": 0.70489, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391098549, "comment": "Request executed", "ts": "2026-02-23T17:22:28.322106+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:23:07.370906+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: AUDUSD has 1 expected positions in database (age 279s)", "ts": "2026-02-23T17:27:07.494752+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T17:28:02.940406+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17941, "sl": 1.17999, "tp": 1.17844, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391110917, "comment": "Request executed", "ts": "2026-02-23T17:42:55.849331+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:43:29.539238+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:43:30.052635+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36941, "sl": 1.37004, "tp": 1.3684, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391111166, "comment": "Request executed", "ts": "2026-02-23T17:43:30.785265+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: EURUSD has 1 expected positions in database (age 68s)", "ts": "2026-02-23T17:44:03.974489+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER3_EXPECTED_POSITION_EXISTS: USDCAD has 1 expected positions in database (age 185s)", "ts": "2026-02-23T17:46:35.681202+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:46:36.194643+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T17:53:48.700863+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:00:53.487714+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17993, "sl": 1.18052, "tp": 1.17897, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391116980, "comment": "Request executed", "ts": "2026-02-23T18:00:54.207209+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:02:33.419780+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T18:05:12.839372+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:09:02.865844+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:14:21.060629+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:14:21.574989+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:15:49.006758+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.489, "sl": 154.74442, "tp": 154.05796, "spread": 0.008000000000009777, "retcode": 10009, "ticket": 391121697, "comment": "Request executed", "ts": "2026-02-23T18:15:49.737252+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:18:08.390905+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:18:08.901553+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:24:22.615714+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36939, "sl": 1.3699, "tp": 1.36856, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 391126250, "comment": "Request executed", "ts": "2026-02-23T18:27:31.262566+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:33:57.408340+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:33:57.920490+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:40:04.099906+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:42:13.132535+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:43:12.385721+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:43:12.901870+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:45:15.844415+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:47:27.576049+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:49:21.756629+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T18:51:35.452424+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70608, "sl": 0.70656, "tp": 0.70527, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391132850, "comment": "Request executed", "ts": "2026-02-23T18:52:31.019360+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:55:41.882226+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T18:57:58.424204+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:00:54.803278+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:04:11.176958+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36911, "sl": 1.37061, "tp": 1.36661, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391135662, "comment": "Request executed", "ts": "2026-02-23T19:05:22.912991+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:05:53.327381+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:09:10.915669+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:14:38.546528+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:14:39.061667+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:17:43.171926+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:20:00.527271+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:20:01.042296+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:21:02.274132+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:23:22.104223+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:25:02.879273+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:30:38.070821+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:30:38.584464+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:35:01.516336+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:35:02.029258+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "SAFETY_BLOCK_GLOBAL_HOURLY_LIMIT", "ts": "2026-02-23T19:40:57.557055+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:43:27.337253+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:43:27.851661+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36959, "sl": 1.37107, "tp": 1.36712, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391148526, "comment": "Request executed", "ts": "2026-02-23T19:46:49.153819+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:47:49.719174+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:50:13.567447+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-23T19:52:03.081993+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:53:08.302638+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:53:08.815941+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-23T19:55:58.510744+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "spread_pips": 6.400000000002137, "retcode": "EXTREME_SPREAD", "ts": "2026-02-23T22:12:22.335439+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "spread_pips": 8.799999999999919, "retcode": "EXTREME_SPREAD", "ts": "2026-02-23T22:21:42.126110+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "spread_pips": 6.399999999999295, "retcode": "EXTREME_SPREAD", "ts": "2026-02-23T22:29:17.662704+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.632, "sl": 154.67285, "tp": 154.56392, "spread": 0.01300000000000523, "retcode": 10009, "ticket": 391184512, "comment": "Request executed", "ts": "2026-02-23T23:22:57.815286+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70622, "sl": 0.70651, "tp": 0.70573, "spread": 4.999999999999449e-05, "retcode": 10009, "ticket": 391189993, "comment": "Request executed", "ts": "2026-02-23T23:49:24.998160+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.34913, "sl": 1.3487, "tp": 1.34982, "spread": 9.999999999998899e-05, "retcode": 10009, "ticket": 391211119, "comment": "Request executed", "ts": "2026-02-24T01:04:48.272824+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.34885, "sl": 1.34947, "tp": 1.34779, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391231174, "comment": "Request executed", "ts": "2026-02-24T01:44:50.337739+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T01:47:04.228682+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T01:48:57.490377+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T01:50:50.298223+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T01:53:02.400291+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T01:55:13.107147+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:01:59.471925+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:01:59.986144+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37054, "sl": 1.36992, "tp": 1.37155, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 391234973, "comment": "Request executed", "ts": "2026-02-24T02:02:00.682222+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:03:41.407538+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:03:41.922101+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:04:57.292761+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:04:57.805955+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:04:58.319433+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:06:45.221458+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:06:45.736883+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:08:20.525599+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:08:21.039307+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:09:56.221390+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:09:56.737564+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:11:51.930169+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:11:52.443371+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:14:02.728529+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:16:12.714620+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:18:29.947120+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:20:45.922106+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:22:45.020111+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:22:45.533009+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:24:40.696071+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:24:41.207962+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:26:55.308881+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:26:55.817226+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:29:09.795000+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17823, "sl": 1.17875, "tp": 1.17736, "spread": 1.999999999990898e-05, "retcode": 10009, "ticket": 391240752, "comment": "Request executed", "ts": "2026-02-24T02:31:02.293144+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T02:31:09.485103+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:33:12.921611+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T02:35:03.992278+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.999, "sl": 154.90473, "tp": 155.15612, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391242304, "comment": "Request executed", "ts": "2026-02-24T02:36:50.964192+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T02:36:58.183178+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:46:45.113841+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:48:37.723129+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:50:30.020378+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 154.915, "sl": 154.82519, "tp": 155.06735, "spread": 0.007999999999981355, "retcode": 10009, "ticket": 391245211, "comment": "Request executed", "ts": "2026-02-24T02:52:22.915002+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T02:52:30.137813+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:54:22.127843+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:56:47.168805+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T02:58:59.232625+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:00:52.074943+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:02:26.004431+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36994, "sl": 1.36956, "tp": 1.37057, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391247878, "comment": "Request executed", "ts": "2026-02-24T03:02:26.712512+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:04:08.050309+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:06:17.134601+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:08:14.115527+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:08:14.626940+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:10:10.368563+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:10:10.882370+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:12:23.133991+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:14:21.594721+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:14:22.107707+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:16:31.054413+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:16:31.567943+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:18:09.438774+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:18:09.951822+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:18:10.464933+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:19:51.290308+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:19:51.802988+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:19:52.315166+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:21:32.779918+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:21:33.289424+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:21:33.803171+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:23:26.697339+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:23:27.211214+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:25:20.102653+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:25:20.617356+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:25:21.132553+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:27:40.319363+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:29:51.899963+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:32:01.582784+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:34:04.950050+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:34:05.461882+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:36:32.357520+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:38:28.106506+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:38:28.622499+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:38:29.136214+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:40:24.968044+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:40:25.483758+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:42:20.322276+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:42:20.837312+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:44:33.545015+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:46:43.466863+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:46:43.981195+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:48:52.928357+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:48:53.443046+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:50:50.184388+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:50:50.696190+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:52:47.527797+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T03:52:48.041302+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:55:09.818889+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T03:57:53.225889+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T04:05:13.815323+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17742, "sl": 1.17771, "tp": 1.17693, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391262785, "comment": "Request executed", "ts": "2026-02-24T04:17:46.316055+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17683, "sl": 1.17713, "tp": 1.17633, "spread": 0.0, "retcode": 10009, "ticket": 391266500, "comment": "Request executed", "ts": "2026-02-24T04:44:18.018220+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:46:13.684056+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.253, "sl": 155.18585, "tp": 155.36492, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391267120, "comment": "Request executed", "ts": "2026-02-24T04:46:14.413593+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:48:15.508728+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:50:09.203192+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:52:03.018610+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:53:57.485968+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:56:04.636770+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:57:40.260857+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T04:59:35.417128+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T04:59:35.930072+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:01:28.806039+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:01:29.318900+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:03:21.000601+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:03:21.514369+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:05:27.144634+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:05:27.658142+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:07:21.018702+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:07:21.533462+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17707, "sl": 1.17738, "tp": 1.17656, "spread": 4.999999999988347e-05, "retcode": 10009, "ticket": 391271468, "comment": "Request executed", "ts": "2026-02-24T05:09:14.558961+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T05:09:21.804778+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:10:58.697026+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:10:59.209158+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:12:33.502590+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:12:34.016644+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:14:21.162955+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:14:21.675947+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:16:15.365362+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:18:12.329763+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:20:09.132759+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:22:03.693209+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:24:11.357967+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:28:54.571961+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:31:01.670541+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:31:02.182402+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:33:01.246676+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:33:01.760461+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:35:08.316817+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:35:08.830211+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:36:44.458623+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:36:44.973509+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:36:45.485793+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:38:20.393763+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:38:20.908099+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:38:21.421230+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:39:54.918318+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:39:55.429966+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:39:55.942721+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:41:30.040069+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:41:30.547715+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:41:31.061114+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:43:00.649496+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:43:01.163321+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:43:01.674391+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37035, "sl": 1.37008, "tp": 1.3708, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 391277531, "comment": "Request executed", "ts": "2026-02-24T05:43:02.371176+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:44:25.792765+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:44:26.306078+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:44:26.819287+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:46:05.166908+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:46:05.680929+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:46:06.192888+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T05:47:40.298238+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:47:40.809598+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:47:41.321728+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.1774, "sl": 1.17767, "tp": 1.17695, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391279302, "comment": "Request executed", "ts": "2026-02-24T05:49:16.544301+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T05:49:23.779273+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T05:49:23.784675+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:51:08.929166+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:51:09.443472+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:52:43.913120+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:52:44.427609+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:54:18.959632+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:54:19.472324+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70641, "sl": 0.70676, "tp": 0.70583, "spread": 4.999999999999449e-05, "retcode": 10009, "ticket": 391280982, "comment": "Request executed", "ts": "2026-02-24T05:55:56.321163+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T05:56:03.564070+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:57:21.790505+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.184, "sl": 155.11796, "tp": 155.29673, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391282060, "comment": "Request executed", "ts": "2026-02-24T05:58:35.499562+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T05:58:42.746030+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T05:59:43.846278+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.36994, "sl": 1.36962, "tp": 1.37047, "spread": 7.00000000000145e-05, "retcode": 10009, "ticket": 391282253, "comment": "Request executed", "ts": "2026-02-24T05:59:44.528069+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:01:38.593236+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:01:39.105760+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:03:15.338790+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17816, "sl": 1.17849, "tp": 1.1776, "spread": 9.999999999843467e-06, "retcode": 10009, "ticket": 391283973, "comment": "Request executed", "ts": "2026-02-24T06:05:43.141476+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T06:05:50.390425+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T06:05:50.397097+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:07:19.309710+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:08:53.909312+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:10:11.339029+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:12:03.448031+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:13:50.602932+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:13:51.113854+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:13:51.628013+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:15:26.668081+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:15:27.182339+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:17:05.250900+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:17:05.761403+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:18:38.932243+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:18:39.447035+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:20:13.697681+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:20:14.212583+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:21:44.055276+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:21:44.567996+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.076, "sl": 154.99923, "tp": 155.20662, "spread": 0.007999999999981355, "retcode": 10009, "ticket": 391286939, "comment": "Request executed", "ts": "2026-02-24T06:21:45.249978+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T06:21:52.546582+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:23:30.004485+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:23:30.518106+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:23:31.029605+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:25:14.688200+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:25:15.202124+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:25:15.714149+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:26:49.092803+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:26:49.605696+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:26:50.119709+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:28:32.152043+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:28:32.665606+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:28:33.179577+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:30:20.237191+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:30:20.751408+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:30:21.266847+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:32:02.106351+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:32:02.619993+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:32:03.135698+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:33:44.403529+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:33:44.915328+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:33:45.445894+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:35:23.344617+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:35:23.857794+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:35:24.370655+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:36:39.986110+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:36:40.498474+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:36:41.010211+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:38:09.680148+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:38:10.194147+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:38:10.706062+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:38:11.219319+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:39:27.629871+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:39:28.142589+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:39:28.657792+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:39:29.171344+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:40:45.418895+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:40:45.932314+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:40:46.443202+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:40:46.956473+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:42:03.323546+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:42:03.838559+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:42:04.350510+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:42:04.861470+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:43:20.192215+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:43:20.704713+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:43:21.216740+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:43:21.731060+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:44:53.590304+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:44:54.101553+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:44:54.630370+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:44:55.143951+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:46:20.470904+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:46:20.986107+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:46:21.499721+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:46:22.011215+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:47:41.057555+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:47:41.569304+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:47:42.082386+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:47:42.594909+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:49:01.702081+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:49:02.210368+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:49:02.724629+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:49:03.236027+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:50:22.327349+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:50:22.842596+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:50:23.357146+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:50:23.869267+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:52:05.019806+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:52:05.533345+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:52:06.046125+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:52:06.559079+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:53:28.348898+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:53:28.862249+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:53:29.376617+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:53:29.892336+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:54:57.501826+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:54:58.015247+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:54:58.526545+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:54:59.042574+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:56:20.945776+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:56:21.459223+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:56:21.971275+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:56:22.485811+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.001, "sl": 154.92081, "tp": 155.13465, "spread": 0.01300000000000523, "retcode": 10009, "ticket": 391296797, "comment": "Request executed", "ts": "2026-02-24T06:57:46.761958+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T06:57:53.944025+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T06:57:53.950135+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T06:57:53.955766+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T06:59:25.847381+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:59:26.361756+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T06:59:26.876173+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T07:01:10.621283+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:01:11.136851+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:02:33.315819+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T07:02:33.829058+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:02:34.341697+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:03:50.680037+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:03:51.194358+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T07:03:51.706742+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:05:15.867961+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T07:05:16.381424+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:05:16.895816+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70633, "sl": 0.70673, "tp": 0.70569, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 391301122, "comment": "Request executed", "ts": "2026-02-24T07:10:15.287457+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T07:26:37.979306+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T07:28:48.522378+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70659, "sl": 0.70702, "tp": 0.70588, "spread": 3.999999999992898e-05, "retcode": 10009, "ticket": 391308172, "comment": "Request executed", "ts": "2026-02-24T07:31:14.595627+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:33:09.015613+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:33:09.529021+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17819, "sl": 1.17871, "tp": 1.17724, "spread": 0.0, "retcode": 10009, "ticket": 391310151, "comment": "Request executed", "ts": "2026-02-24T07:35:03.058287+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T07:35:10.325547+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:37:02.162981+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:38:53.673967+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:41:00.286050+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T07:57:17.407204+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:01:19.368533+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:11:59.007801+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:14:02.886125+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:15:54.991281+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:17:46.379782+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:19:36.139249+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:21:26.564919+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:23:08.857322+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:23:09.368265+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.3486099999999999, "sl": 1.34942, "tp": 1.34726, "spread": 3.0000000000196536e-05, "retcode": 10009, "ticket": 391327773, "comment": "Request executed", "ts": "2026-02-24T08:24:41.223256+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T08:24:48.528819+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:26:20.778482+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:27:52.089811+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:29:22.809095+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 156.062, "sl": 155.90704, "tp": 156.32027, "spread": 0.005000000000023874, "retcode": 10009, "ticket": 391332792, "comment": "Request executed", "ts": "2026-02-24T08:36:38.348910+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:40:01.278327+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:41:33.860718+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:43:06.400515+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:44:37.650338+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:46:27.069794+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:48:12.238339+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:49:57.034260+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:51:41.494841+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:51:42.006985+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:53:14.221744+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:53:14.736918+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:54:46.092539+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:54:46.601838+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:56:31.876549+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:56:32.392457+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:57:48.648175+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:57:49.161654+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.94, "sl": 155.59985, "tp": 156.49892, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391339439, "comment": "Request executed", "ts": "2026-02-24T08:57:49.887206+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T08:59:09.114603+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T08:59:09.627684+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:00:19.981147+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:00:20.494260+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:01:30.588983+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:01:31.103719+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:02:54.196802+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:02:54.708060+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:04:04.769078+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:04:05.280829+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:05:15.722608+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:05:16.237456+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:06:42.047880+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:06:42.558317+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:07:52.403953+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:07:52.916651+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:09:15.771799+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:09:16.283674+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:10:26.545425+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:10:27.057362+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:11:37.411682+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:11:37.925454+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.34937, "sl": 1.35015, "tp": 1.34806, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391344257, "comment": "Request executed", "ts": "2026-02-24T09:13:07.980136+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T09:14:25.748536+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:28:22.445159+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T09:29:51.375870+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.1792799999999999, "sl": 1.18024, "tp": 1.17768, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391352382, "comment": "Request executed", "ts": "2026-02-24T09:37:26.184070+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70623, "sl": 0.70656, "tp": 0.70567, "spread": 3.999999999992898e-05, "retcode": 10009, "ticket": 391367357, "comment": "Request executed", "ts": "2026-02-24T10:37:14.023454+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.816, "sl": 155.91292, "tp": 155.65446, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391372110, "comment": "Request executed", "ts": "2026-02-24T10:49:37.981171+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.776, "sl": 155.86646, "tp": 155.62523, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391388721, "comment": "Request executed", "ts": "2026-02-24T11:47:35.468565+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.34842, "sl": 1.34892, "tp": 1.34759, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391410530, "comment": "Request executed", "ts": "2026-02-24T12:33:56.428179+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T12:53:36.091753+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4_VERIFIED_POSITION_EXISTS", "ts": "2026-02-24T12:56:01.464750+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.34852, "sl": 1.34913, "tp": 1.34748, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 391430065, "comment": "Request executed", "ts": "2026-02-24T13:16:31.718279+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T13:16:38.995870+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.95, "sl": 155.84996, "tp": 156.11673, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391433725, "comment": "Request executed", "ts": "2026-02-24T13:27:24.406781+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T13:27:31.595022+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:30:18.299809+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:33:14.269083+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:36:02.181788+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:GBPUSD:SELL", "ts": "2026-02-24T13:36:02.694381+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:36:03.207410+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:39:30.166940+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:45:14.718331+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:45:15.230181+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:GBPUSD:SELL", "ts": "2026-02-24T13:48:06.701605+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:48:07.217028+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:51:04.605106+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T13:51:05.117789+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70301, "sl": 0.70353, "tp": 0.70215, "spread": 3.999999999992898e-05, "retcode": 10009, "ticket": 391475985, "comment": "Request executed", "ts": "2026-02-24T14:20:12.835048+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T14:20:20.224868+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T14:20:20.231506+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T14:20:20.237664+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:23:21.764539+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:23:22.277270+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:26:26.656710+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:26:27.170771+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:29:15.498187+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:29:16.013180+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:31:59.971555+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:32:00.483514+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 156.061, "sl": 156.16323, "tp": 155.89062, "spread": 0.007999999999981355, "retcode": 10009, "ticket": 391485858, "comment": "Request executed", "ts": "2026-02-24T14:32:01.172820+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:35:01.622930+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:35:02.135864+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:38:05.766812+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70352, "sl": 0.70307, "tp": 0.70433, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 391496932, "comment": "Request executed", "ts": "2026-02-24T14:41:00.307172+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:46:58.052925+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:46:58.567190+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17732, "sl": 1.17792, "tp": 1.17633, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391504943, "comment": "Request executed", "ts": "2026-02-24T14:49:59.380473+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T14:50:06.639716+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T14:50:06.645226+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T14:52:56.705588+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:52:57.219079+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37165, "sl": 1.37226, "tp": 1.37064, "spread": 4.999999999988347e-05, "retcode": 10009, "ticket": 391506507, "comment": "Request executed", "ts": "2026-02-24T14:52:57.922994+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:55:52.601003+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T14:55:53.114854+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T14:58:35.615694+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T14:58:36.129053+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:01:40.576364+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:04:28.503810+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:04:29.018564+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:07:06.286919+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:07:06.799741+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:07:07.313452+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:09:52.582090+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:09:53.093170+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:09:53.601587+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:09:54.114136+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:12:34.801828+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:12:35.319473+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:12:35.831235+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:12:36.345149+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:15:22.905959+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:15:23.418544+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:15:23.929804+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:15:24.444194+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:18:18.059735+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:18:18.572745+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:18:19.085907+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:JPY_PAIRS:2>1", "ts": "2026-02-24T15:21:20.348838+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:21:20.866418+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:24:13.912000+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:JPY_PAIRS:2>1", "ts": "2026-02-24T15:24:14.427509+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T15:27:10.002972+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:JPY_PAIRS:2>1", "ts": "2026-02-24T15:27:10.517774+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:JPY_PAIRS:2>1", "ts": "2026-02-24T15:30:13.778491+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:33:23.647194+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.1779600000000001, "sl": 1.17731, "tp": 1.17904, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391538933, "comment": "Request executed", "ts": "2026-02-24T15:33:24.336734+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T15:33:31.966038+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:36:27.592081+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37142, "sl": 1.37218, "tp": 1.37018, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 391541058, "comment": "Request executed", "ts": "2026-02-24T15:36:28.309037+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:39:20.298567+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T15:42:14.593036+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:JPY_PAIRS:2>1", "ts": "2026-02-24T15:42:15.104346+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:JPY_PAIRS:2>1", "ts": "2026-02-24T15:45:14.870521+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T15:48:22.611362+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17734, "sl": 1.17666, "tp": 1.17864, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391548058, "comment": "Request executed", "ts": "2026-02-24T15:51:09.294988+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T15:51:16.590741+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T15:51:16.597269+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.868, "sl": 156.00969, "tp": 155.63185, "spread": 0.009999999999990905, "retcode": 10009, "ticket": 391549170, "comment": "Request executed", "ts": "2026-02-24T15:54:09.116893+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 10s, wait 5.0s more)", "ts": "2026-02-24T15:54:16.365896+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T16:00:31.773890+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T16:03:24.223782+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDCAD:SELL", "ts": "2026-02-24T16:03:24.739843+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDCAD:SELL", "ts": "2026-02-24T16:06:00.931252+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T16:06:01.441446+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T16:08:47.853251+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_correlated_cap:USD_MAJORS:2>1", "ts": "2026-02-24T16:08:48.367801+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDCAD:SELL", "ts": "2026-02-24T16:08:48.882025+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T16:14:47.009580+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T16:17:58.599762+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T16:20:48.221319+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T16:23:50.382533+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T16:26:51.431754+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:SELL", "ts": "2026-02-24T16:29:51.272777+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.734, "sl": 155.66856, "tp": 155.89446, "spread": 0.004000000000019099, "retcode": 10009, "ticket": 391588289, "comment": "Request executed", "ts": "2026-02-24T17:27:17.356141+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-24T17:27:24.688605+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70667, "sl": 0.70628, "tp": 0.70714, "spread": 2.0000000000020002e-05, "retcode": 10009, "ticket": 391588925, "comment": "Request executed", "ts": "2026-02-24T17:30:11.063361+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17839, "sl": 1.17879, "tp": 1.17776, "spread": 0.0, "retcode": 10009, "ticket": 391590027, "comment": "Request executed", "ts": "2026-02-24T17:35:21.700008+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-24T17:35:28.948055+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37074, "sl": 1.37032, "tp": 1.37139, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 391590752, "comment": "Request executed", "ts": "2026-02-24T17:38:44.102972+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.693, "sl": 155.74867, "tp": 155.55938, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 391592723, "comment": "Request executed", "ts": "2026-02-24T17:45:56.606475+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T17:48:44.544390+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T17:48:45.058514+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T17:51:23.890288+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17875, "sl": 1.17845, "tp": 1.17923, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391595131, "comment": "Request executed", "ts": "2026-02-24T17:56:56.890660+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70649, "sl": 0.70623, "tp": 0.70691, "spread": 3.999999999992898e-05, "retcode": 10009, "ticket": 391598649, "comment": "Request executed", "ts": "2026-02-24T18:03:35.103667+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-24T18:03:42.288522+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.35141, "sl": 1.35184, "tp": 1.35087, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391600075, "comment": "Request executed", "ts": "2026-02-24T18:06:42.217398+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37022, "sl": 1.37057, "tp": 1.3698, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391600686, "comment": "Request executed", "ts": "2026-02-24T18:09:31.361875+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:BUY", "ts": "2026-02-24T18:17:38.599611+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 155.738, "sl": 155.78415, "tp": 155.68262, "spread": 0.012000000000000455, "retcode": 10009, "ticket": 391604834, "comment": "Request executed", "ts": "2026-02-24T18:23:06.335496+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:3>1", "ts": "2026-02-24T18:26:03.931932+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T18:26:04.443393+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDCAD:SELL", "ts": "2026-02-24T18:31:40.647610+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:EURUSD:SELL", "ts": "2026-02-24T18:39:44.310619+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T18:48:22.876185+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T18:53:51.305542+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.3701400000000001, "sl": 1.37047, "tp": 1.36975, "spread": 5.999999999994898e-05, "retcode": 10009, "ticket": 391613870, "comment": "Request executed", "ts": "2026-02-24T18:53:52.029295+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-24T18:53:59.284513+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70627, "sl": 0.70606, "tp": 0.70652, "spread": 4.999999999999449e-05, "retcode": 10009, "ticket": 391614720, "comment": "Request executed", "ts": "2026-02-24T18:56:52.272235+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.35064, "sl": 1.35105, "tp": 1.34999, "spread": 1.999999999990898e-05, "retcode": 10009, "ticket": 391616345, "comment": "Request executed", "ts": "2026-02-24T19:02:18.170488+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-24T19:02:25.426638+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:BUY", "ts": "2026-02-24T19:05:09.077508+00:00"}
+{"pair": "USDCAD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.3703400000000001, "sl": 1.37065, "tp": 1.36996, "spread": 3.999999999981796e-05, "retcode": 10009, "ticket": 391620602, "comment": "Request executed", "ts": "2026-02-24T19:13:32.968617+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T19:16:21.062990+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:GBPUSD:SELL", "ts": "2026-02-24T19:21:59.603426+00:00"}
+{"pair": "USDCAD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.37042, "sl": 1.37011, "tp": 1.37117, "spread": 4.0000000000040004e-05, "retcode": 10009, "ticket": 391626342, "comment": "Request executed", "ts": "2026-02-24T19:28:34.186338+00:00"}
+{"pair": "EURUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17814, "sl": 1.17782, "tp": 1.1789, "spread": 0.0, "retcode": 10009, "ticket": 391627235, "comment": "Request executed", "ts": "2026-02-24T19:31:20.356902+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-24T19:31:27.596032+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T19:34:03.410906+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T19:34:03.921007+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-24T19:36:40.556567+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.3507799999999999, "sl": 1.35113, "tp": 1.35034, "spread": 3.0000000000196536e-05, "retcode": 10009, "ticket": 391632792, "comment": "Request executed", "ts": "2026-02-24T19:48:25.754078+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17798, "sl": 1.17825, "tp": 1.17765, "spread": 1.0000000000065512e-05, "retcode": 10009, "ticket": 391633588, "comment": "Request executed", "ts": "2026-02-24T19:51:33.564531+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70597, "sl": 0.70619, "tp": 0.70575, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 391634738, "comment": "Request executed", "ts": "2026-02-24T19:54:26.565542+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.55, "attempted_volume": 0.55, "final_volume": 0.55, "price": 0.70874, "sl": 0.70784, "tp": 0.71126, "spread": 3.0000000000085514e-05, "retcode": 10009, "ticket": 103242596, "comment": "Request executed", "ts": "2026-02-25T09:41:29.772325+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.01, "retcode": "LAYER4B_active_index_same_symbol_direction:AUDUSD:BUY", "ts": "2026-02-25T09:44:01.376085+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.01, "retcode": "SAFETY_BLOCK_MIN_TIME_VIOLATION", "ts": "2026-02-25T09:47:24.644881+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.56, "attempted_volume": 0.56, "final_volume": 0.56, "price": 0.70861, "sl": 0.70772, "tp": 0.7111, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 103244904, "comment": "Request executed", "ts": "2026-02-25T09:49:52.370975+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.01, "retcode": "TRADE_DISABLED_terminal_trade_disabled", "ts": "2026-02-25T09:57:06.912129+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.87, "attempted_volume": 0.87, "final_volume": 0.87, "price": 1.35165, "sl": 1.35222, "tp": 1.35029, "spread": 1.999999999990898e-05, "retcode": 10009, "ticket": 103258428, "comment": "Request executed", "ts": "2026-02-25T10:21:15.037207+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70894, "sl": 0.70848, "tp": 0.70949, "spread": 2.999999999997449e-05, "retcode": 10009, "ticket": 103259710, "comment": "Request executed", "ts": "2026-02-25T10:24:02.736609+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-25T10:24:10.042233+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T10:42:37.635734+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 0.88, "attempted_volume": 0.88, "final_volume": 0.88, "price": 156.697, "sl": 156.60854, "tp": 156.90931, "spread": 0.0049999999999954525, "retcode": 10009, "ticket": 103269510, "comment": "Request executed", "ts": "2026-02-25T10:45:32.602693+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T10:51:31.213698+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:00:09.693090+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:02:47.657597+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:02:48.168394+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:06:05.051851+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:06:05.567775+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:08:50.234652+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.97, "retcode": "LAYER4B_active_index_same_symbol_direction:GBPUSD:SELL", "ts": "2026-02-25T11:11:41.751037+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:11:42.267175+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:11:42.779151+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.85, "attempted_volume": 0.85, "final_volume": 0.85, "price": 1.34941, "sl": 1.35, "tp": 1.34872, "spread": 5.0000000000105516e-05, "retcode": 10009, "ticket": 103286406, "comment": "Request executed", "ts": "2026-02-25T11:18:06.722164+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:21:23.530792+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "retcode": "LAYER4B_active_index_direction_cap:USD_MAJORS:2>1", "ts": "2026-02-25T11:27:13.119091+00:00"}
+{"pair": "USDJPY", "dir": 1, "units": 1.0, "retcode": "LAYER4B_active_index_same_symbol_direction:USDJPY:BUY", "ts": "2026-02-25T11:46:00.097619+00:00"}
+{"pair": "EURUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 1.17743, "sl": 1.17776, "tp": 1.17704, "spread": 0.0, "retcode": 10009, "ticket": 103300159, "comment": "Request executed", "ts": "2026-02-25T11:51:51.478937+00:00"}
+{"pair": "GBPUSD", "dir": 1, "units": 1.0, "retcode": "LAYER1_GLOBAL_RATE_LIMIT: Only 5.0s since last order (min 8s, wait 3.0s more)", "ts": "2026-02-25T11:51:58.684017+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.70801, "sl": 0.70769, "tp": 0.70871, "spread": 2.999999999997449e-05, "retcode": "DRY", "ts": "2026-02-25T12:00:20.698096+00:00"}
+{"pair": "USDJPY", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 156.744, "sl": 156.80308, "tp": 156.60562, "spread": 0.0049999999999954525, "retcode": "DRY", "ts": "2026-02-25T12:04:42.801039+00:00"}
+{"pair": "GBPUSD", "dir": -1, "units": 0.73, "attempted_volume": 0.73, "final_volume": 0.73, "price": 1.3513899999999999, "sl": 1.35207, "tp": 1.35028, "spread": 5.0000000000105516e-05, "retcode": "DRY", "ts": "2026-02-25T14:43:33.986047+00:00"}
+{"pair": "AUDUSD", "dir": 1, "units": 0.97, "attempted_volume": 0.97, "final_volume": 0.97, "price": 0.70999, "sl": 0.70948, "tp": 0.71058, "spread": 4.0000000000040004e-05, "retcode": "DRY", "ts": "2026-02-25T15:17:43.043093+00:00"}
+{"pair": "AUDUSD", "dir": -1, "units": 1.0, "attempted_volume": 1.0, "final_volume": 1.0, "price": 0.71168, "sl": 0.71193, "tp": 0.71109, "spread": 4.0000000000040004e-05, "retcode": "DRY", "ts": "2026-02-25T18:34:50.313447+00:00"}
