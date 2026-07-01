@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cavalier Signal Tape",
+  "description": "Sanitised signal tape emitted by the SignalGate agent. One JSON object per line (JSONL).",
+  "type": "object",
+  "required": ["ts", "status", "pair", "tf", "direction"],
+  "properties": {
+    "ts": {
+      "type": "number",
+      "description": "Unix timestamp with fractional seconds"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["BLOCKED", "CANDIDATE", "PASSED", "EXECUTED", "REJECTED"]
+    },
+    "pair": {
+      "type": "string",
+      "description": "Currency pair or symbol (e.g. EURUSD, GBPUSD)"
+    },
+    "tf": {
+      "type": "string",
+      "description": "Timeframe (e.g. M1, M5, M15, M30, H1)"
+    },
+    "direction": {
+      "type": "integer",
+      "enum": [-1, 0, 1],
+      "description": "-1 = sell, 0 = neutral/no signal, 1 = buy"
+    },
+    "signal_id": {
+      "type": ["string", "null"],
+      "description": "Hashed signal identifier"
+    },
+    "fused": {
+      "type": "number",
+      "description": "Fused confidence score (0.0–1.0)"
+    },
+    "ml_confidence": {
+      "type": "number"
+    },
+    "ml_raw_confidence": {
+      "type": "number"
+    },
+    "smc_confluence": {
+      "type": "number"
+    },
+    "smc_session_bias": {
+      "type": "integer",
+      "enum": [-1, 0, 1]
+    },
+    "smc_ob_quality": {
+      "type": "number"
+    },
+    "smc_fvg_quality": {
+      "type": "number"
+    },
+    "smc_smt_active": {
+      "type": "boolean"
+    },
+    "smc_killzone": {
+      "type": "boolean"
+    },
+    "smc_killzone_label": {
+      "type": "string",
+      "enum": ["LONDON_KILLZONE", "NY_KILLZONE", "ASIA_KILLZONE", "NONE"]
+    },
+    "fvg_invalidated": {
+      "type": "boolean"
+    },
+    "mfe_pips": {
+      "type": "number"
+    },
+    "mae_pips": {
+      "type": "number"
+    },
+    "regime": {
+      "type": "string",
+      "enum": ["TRENDING", "RANGING", "VOLATILE", "UNKNOWN"]
+    },
+    "session": {
+      "type": "string",
+      "enum": ["LONDON", "NEW_YORK", "ASIA", "NONE"]
+    },
+    "ticket_id": {
+      "type": ["string", "null"],
+      "description": "Hashed ticket ID if executed"
+    },
+    "snapshot_id": {
+      "type": "string",
+      "description": "Hashed market snapshot identifier"
+    },
+    "block_reason": {
+      "type": "string"
+    },
+    "checkpoints": {
+      "type": "object",
+      "description": "Signal checkpoint gate evaluations"
+    }
+  }
+}

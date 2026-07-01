@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cavalier Execution Ledger",
+  "description": "Sanitised execution ledger emitted by the ExecutionEngine agent. One JSON object per line (JSONL).",
+  "type": "object",
+  "required": ["ledger_version", "event", "timestamp", "symbol", "timeframe"],
+  "properties": {
+    "ledger_version": {
+      "type": "integer",
+      "description": "Schema version of the ledger entry"
+    },
+    "event_id": {
+      "type": "string",
+      "description": "Hashed unique event identifier"
+    },
+    "event": {
+      "type": "string",
+      "enum": [
+        "REGIME_OBSERVATION",
+        "SIGNAL_RECEIVED",
+        "ORDER_SUBMITTED",
+        "ORDER_FILLED",
+        "ORDER_REJECTED",
+        "POSITION_CLOSED",
+        "STOP_LOSS_HIT",
+        "TAKE_PROFIT_HIT",
+        "HEARTBEAT"
+      ]
+    },
+    "event_type": {
+      "type": "string",
+      "description": "Mirrors event for backward compatibility"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "config_hash": {
+      "type": "string",
+      "description": "Redacted config hash"
+    },
+    "model_manifest_hash": {
+      "type": "string",
+      "description": "Redacted model manifest hash"
+    },
+    "symbol": {
+      "type": "string",
+      "description": "Currency pair or symbol"
+    },
+    "timeframe": {
+      "type": "string",
+      "description": "Timeframe of the event"
+    },
+    "session": {
+      "type": "string",
+      "enum": ["LONDON", "NEW_YORK", "ASIA", "NONE"]
+    },
+    "regime_snapshot": {
+      "type": "object",
+      "properties": {
+        "regime": {
+          "type": "string",
+          "enum": ["TRENDING", "RANGING", "VOLATILE", "UNKNOWN"]
+        },
+        "confidence": {
+          "type": "number"
+        },
+        "strength": {
+          "type": "number"
+        },
+        "volatility": {
+          "type": "number"
+        }
+      }
+    },
+    "regime_truth": {
+      "type": "object",
+      "properties": {
+        "is_native": {
+          "type": "boolean"
+        },
+        "tier": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
