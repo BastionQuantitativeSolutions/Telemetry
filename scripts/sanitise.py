@@ -27,7 +27,6 @@ import argparse
 import csv
 import hashlib
 import json
-import os
 import re
 import sys
 from datetime import datetime
@@ -289,7 +288,7 @@ class Ingestor:
     # ------------------------------------------------------------------
     def run(self, target_date: str | None = None) -> None:
         print(f"{'='*60}")
-        print(f"Cavalier Telemetry Sanitiser")
+        print("Cavalier Telemetry Sanitiser")
         print(f"Cavalier root: {CAVALIER_ROOT}")
         print(f"Output root:   {TELEMETRY_ROOT / 'clean'}")
         print(f"Dry run:       {self.dry_run}")

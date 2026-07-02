@@ -1,0 +1,10 @@
+feed_delay_hours: 24
+retain_daily_snapshots_days: 365
+redact:
+  - ticket_id
+  - account_id
+  - broker_account
+  - entry_price
+  - exit_price
+  - stop_loss
+  - take_profit
