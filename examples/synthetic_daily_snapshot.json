@@ -1,0 +1,11 @@
+{
+  "date": "2026-01-01",
+  "delay_hours": 24,
+  "components": [
+    {"component": "collector", "status": "OK", "latency_ms": 12.4},
+    {"component": "sanitiser", "status": "OK", "latency_ms": 7.1},
+    {"component": "publisher", "status": "WARN", "detail": "synthetic delayed sample"}
+  ],
+  "risk": {"daily_drawdown_pct": 0.12, "portfolio_heat_pct": 1.8, "open_positions": 0},
+  "validation": {"p0_status": "PASS", "signals_observed": 53, "signals_taken": 6}
+}
